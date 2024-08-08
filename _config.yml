@@ -17,10 +17,8 @@ pic: NJ.jpeg  # Place a 200x200 picture inside /assets/img/ folder and provide t
 # Contact links
 email: rycer100@gmail.com # Add your Email address
 phone: 010 4520 7974 # Add your Phone number
-website: artemsheludko.pw # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
 github: wdou100 # Add your Github handle
-instagram: do0_yu_ # Add your Twitter handle
+instagram: "do0_yu_" # Add your Instagram handle
 
 # Tracker
 analytics:
