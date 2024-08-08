@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Attention"
-description: 뉴진스 최고
+description: Attention is what i want
 date: 2024-08-07
 ---
 ![new](https://cdn.mhns.co.kr/news/photo/202208/532620_645124_459.png)
